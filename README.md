@@ -1,5 +1,6 @@
-I am Luke CONNORS!
-
+###Hi, I'm Luke
+##Welcome to my Github!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeConnors&show_icons=true&theme=radical)
 <!--
 **LukeConnors/LukeConnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
