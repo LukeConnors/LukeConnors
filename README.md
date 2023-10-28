@@ -5,6 +5,12 @@
 ### I am a Fullstack web developer and gruaduate of App Academy. Looking to make changes to the world one project at a time! I have experience using languages such as: Javascript, Python, HTML, CSS, and SQL, and technologies such as: React, Redux, Flask, SQLAlchemy, PostgresQL, Alembic, Express, and Sequelize.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeConnors&show_icons=true&theme=radical)
+
+  <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+  </p>
 <!--
 **LukeConnors/LukeConnors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
