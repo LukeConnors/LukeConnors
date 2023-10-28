@@ -1,8 +1,8 @@
-## Hi, I'm Luke
+# Hi, I'm Luke
 
-### Welcome to my Github!
+## Welcome to my Github!
 
-# I am a Fullstack web developer and gruaduate of App Academy. Looking to make changes to the world one project at a time! I have experience using languages such as: Javascript, Python, HTML, CSS, and SQL, and technologies such as: React, Redux, Flask, SQLAlchemy, PostgresQL, Alembic, and Sequelize.
+### I am a Fullstack web developer and gruaduate of App Academy. Looking to make changes to the world one project at a time! I have experience using languages such as: Javascript, Python, HTML, CSS, and SQL, and technologies such as: React, Redux, Flask, SQLAlchemy, PostgresQL, Alembic, and Sequelize.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeConnors&show_icons=true&theme=radical)
 <!--
