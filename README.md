@@ -4,8 +4,6 @@
 
 ### I am a Fullstack web developer and gruaduate of App Academy. Looking to make changes to the world one project at a time! I have experience using many different languages and technologies as seen below. I want to continue to learn and challenge myself each and every day.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeConnors&show_icons=true&theme=radical)
-
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
